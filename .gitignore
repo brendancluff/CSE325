@@ -1,0 +1,11 @@
+# Ignore build files in all .NET projects
+**/bin/
+**/obj/
+
+# Ignore local development settings
+**/appsettings.Development.json
+
+# Ignore VS Code and environment files
+.vscode/
+.env
+.env.*
